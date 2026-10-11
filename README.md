@@ -1,3 +1,4 @@
+ HEAD
 # E-Commerce Web Application (ApexStore)
 
 An internship-ready, full-stack e-commerce web application engineered with a decoupled architecture: **React 19 (Vite)** on the frontend, **Node.js & Express** RESTful API on the backend, and **Supabase PostgreSQL** with Row Level Security (RLS) for data persistence and authentication.
@@ -235,4 +236,6 @@ The Vite client starts at: `http://localhost:5173`.
 ---
 
 ## Screenshots Placeholder
-> *Screenshots of Storefront, Cart, Checkout, Order Tracking, and Admin Dashboard can be placed in this section.*
+> *Screenshots of Storefront, Cart, Checkout, Order Tracking, and Admin Dashboard can be placed in this section
+# ecommerce-web-app
+Full-stack E-Commerce Web Application with product management, Supabase authentication, role-based Admin/User access, shopping cart, checkout, and order tracking using React, Node.js, Express, and PostgreSQL   origin/main
