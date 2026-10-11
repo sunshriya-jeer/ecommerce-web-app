@@ -1,0 +1,21 @@
+{
+  "name": "ecommerce-backend",
+  "version": "1.0.0",
+  "description": "RESTful API Backend for E-Commerce Web Application",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "seed": "node src/services/seed.js"
+  },
+  "keywords": ["ecommerce", "express", "supabase", "api"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
